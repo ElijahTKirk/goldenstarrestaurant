@@ -17,7 +17,6 @@ body {
     float: left; /* Float the logo to the left */
     margin-right: 20px; /* Add some space between the logo and the header content */
     width: 50%; /* Adjust the width as needed */
-    max-width: 200px; /* Set maximum width to maintain aspect ratio */
 }
 
 header {
