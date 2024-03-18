@@ -21,7 +21,7 @@ body {
 
 header {
     background-color: #f9d71c;
-    padding: 800px 0; /* Adjust padding to increase header size */
+    padding: 55px 0; /* Adjust padding to increase header size */
     position: relative; /* Add position relative to allow positioning of .header-content */
 }
 
