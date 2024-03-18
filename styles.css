@@ -12,7 +12,6 @@ body {
     max-width: 1200px;
 }
 
-
 .logo {
     position: absolute;
     top: 20px;
@@ -23,13 +22,14 @@ body {
 header {
     background-color: #f9d71c;
     padding: 20px 0;
+    position: relative; /* Add position relative to allow positioning of .header-content */
 }
 
 .header-content {
     flex-grow: 1;
     position: absolute;
     top: 20px;
-    left: 150px;
+    left: calc(20px + 65% + 20px); /* Adjust left position based on the width of .logo */
 }
 
 header h1 {
