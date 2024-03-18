@@ -16,7 +16,7 @@ body {
     position: absolute;
     top: 20px;
     left: 20px;
-    width: 65%;
+    width: 150px; /* Adjust width as needed */
 }
 
 header {
