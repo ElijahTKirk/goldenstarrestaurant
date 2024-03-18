@@ -21,7 +21,7 @@ body {
 
 header {
     background-color: #f9d71c;
-    padding: 100px 0;
+    padding: 40px 0; /* Adjust padding to increase header size */
     position: relative; /* Add position relative to allow positioning of .header-content */
 }
 
@@ -29,7 +29,7 @@ header {
     flex-grow: 1;
     position: absolute;
     top: 20px;
-    left: calc(20px + 65% + 20px); /* Adjust left position based on the width of .logo */
+    margin-left: 180px; /* Adjust margin-left to position 20px to the right of .logo */
 }
 
 header h1 {
