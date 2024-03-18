@@ -23,6 +23,10 @@ header {
     padding: 20px 0;
 }
 
+.header-content {
+    flex-grow: 1;
+}
+
 header h1 {
     margin: 0;
     font-size: 2em;
