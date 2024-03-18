@@ -27,6 +27,9 @@ header {
 
 .header-content {
     flex-grow: 1;
+    position: absolute;
+    top: 20px;
+    left: 150px;
 }
 
 header h1 {
