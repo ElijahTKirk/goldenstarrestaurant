@@ -29,7 +29,7 @@ header {
     flex-grow: 1;
     position: absolute;
     top: 20px;
-    margin-left: 10px; /* Adjust margin-left to position 20px to the right of .logo */
+    left: 155px; /* Adjust margin-left to position 20px to the right of .logo */
 }
 
 header h1 {
