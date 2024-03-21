@@ -81,7 +81,7 @@ nav ul li a {
     border-radius: 10px; /* Adjust the border radius for rounded corners */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Add a box shadow for depth */
     max-width: 40%;
-    max-height: 40%; /* Adjust the maximum height of the box */
+    max-height: 50%; /* Adjust the maximum height of the box */
     height: 40%; /* Set a fixed height for the box */
     text-align: center;
     position: absolute;
