@@ -88,4 +88,10 @@ nav ul li a {
     top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
+    margin: 0 auto; /* Center the white box horizontally */
+    overflow: hidden; /* Hide any content that overflows */
+}
+
+marquee {
+    width: 100%; /* Make the marquee take up the full width of the container */
 }
