@@ -81,3 +81,12 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+.white-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px; /* Adjust the border radius for rounded corners */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Add a box shadow for depth */
+    max-width: 80%;
+    text-align: center;
+}
